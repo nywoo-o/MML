@@ -11,3 +11,9 @@ rule 4. 15초가 지나면 자동으로 턴이 넘어갑니다.
 rule 5. 모든 아이템은 랜덤입니다                       
 rule 6. 50퍼센트 이상 먼저 땅을 먹는 경우 승리!   
 rule 7. 캐릭터 A가 먼저 움직이게 됩니다 
+
+
+
+ppt
+https://docs.google.com/presentation/d/1R1554Rc2aJyA-szHIhWRAxv5Bih3ThdveD_1xt_EFBI/edit?usp=sharing
+https://docs.google.com/presentation/d/1CxDlZqwQDOlEzBEDeTPdRg4JRRwMpyoO5UY__B4DNls/edit?usp=sharing
